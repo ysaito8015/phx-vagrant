@@ -5,11 +5,11 @@ Vagrant を用いて Elixir/Phoenix アプリケーションの開発・学習�
 ## 構築される環境
 
 * Debian 10 (Buster)
-* Erlang/OTP 22.2.4
-* Elixir 1.9.4
-* Phoenix 1.4.12
-* Node.js 10.18
-* npm 6.13
+* Erlang/OTP 22.3.4.10
+* Elixir 1.10.4
+* Phoenix 1.10.4
+* Node.js 12.18.3
+* npm 6.14.6
 * PostgreSQL 12 (on Alpine)
 
 ## 必要なソフトウェア
